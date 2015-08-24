@@ -1,0 +1,8 @@
+.vs/config/applicationhost.config
+*.suo
+*.nupkg
+packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.dll
+*.transform
+packages/
+web/bin/
+web/obj/
